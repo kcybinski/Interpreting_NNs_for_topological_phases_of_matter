@@ -1,4 +1,4 @@
-The large files (models, datasets, 100_CNNs) can be downloaded from Zenodo, and after unzipped, they should form such folder structure:   
+The large files (models, datasets, 100_CNNs) can be downloaded from code release on Zenodo, and after unzipped, they should form such folder structure:   
 
  📦 00_demonstrations_data   
  ┣ 📂 100_CNNs   

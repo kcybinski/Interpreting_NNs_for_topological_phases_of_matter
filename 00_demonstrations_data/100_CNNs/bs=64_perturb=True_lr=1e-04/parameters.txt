@@ -1,0 +1,11 @@
+Trained count: 100
+Device: cuda:0
+Current working directory: C:\Users\k4cp3rskiii\Documents\MISMaP\Topo_SSH
+Datasets: ['Datasets\\M=50\\5000-1000-500', 'Datasets\\M=50\\W=0.01-500-samples', 'Datasets\\M=50\\W=0.05-500-samples']
+Batch size: 64
+Perturbative dataset: True
+Learning rate: 1e-04
+Momentum: 0.9
+Weight decay: 0.1
+Early stopping: {'patience': 10, 'tolerance': 0.005, 'warmup': 100}
+Epochs: 1000
