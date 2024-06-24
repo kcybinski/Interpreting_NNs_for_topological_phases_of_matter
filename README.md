@@ -1,8 +1,8 @@
 # Characterizing out-of-distribution generalization of neural networks: application to the disordered Su-Schrieffer-Heeger model
 
-[![DOI](https://zenodo.org/badge/656295144.svg)](https://zenodo.org/badge/latestdoi/656295144)  
-
 [![arXiv](https://img.shields.io/badge/arXiv-2406.10012-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2406.10012)  
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12518289.svg)](https://doi.org/10.5281/zenodo.12518289)   
 
 The aim of this repository is to accompany paper ["Characterizing out-of-distribution generalization of neural networks: application to the disordered Su-Schrieffer-Heeger model"](https://arxiv.org/abs/2406.10012) by K. Cybiński, M. Płodzień, M. Tomza, M. Lewenstein, A. Dauphin and A. Dawid.   
 
